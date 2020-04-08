@@ -1,6 +1,6 @@
-<h1> FlutterApps </h1>
-<h2> The Complete 2020 Flutter Development Bootcamp with Dart </h2>
-* [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
+
+<h1> The Complete 2020 Flutter Development Bootcamp with Dart </h1>
+* [Download the Course Syllabus] (https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
 
 # Fluuter-Course-Portfolio
 
