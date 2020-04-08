@@ -17,6 +17,7 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 ## Clima - Powering Your Flutter App with Live Weather Web Data
 * [Clima Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
 weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ## Bitcoin Ticker (a.k.a. Am I Rich?)
