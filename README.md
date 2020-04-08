@@ -2,7 +2,7 @@
 <h1> The Complete 2020 Flutter Development Bootcamp with Dart </h1>
 * [Download the Course Syllabus] (https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
 
-# Fluuter-Course-Portfolio
+# Portfolio
 
 ## - How to Build Beautiful UIs with Flutter Widgets
 * [MiCard Project](https://github.com/londonappbrewery/MiCard-Completed)
