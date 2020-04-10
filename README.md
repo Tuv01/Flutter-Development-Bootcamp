@@ -15,6 +15,7 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ## Clima - Powering Your Flutter App with Live Weather Web Data
+- https://pub.dev/packages/geolocator geolocator 5.3.1
 * [Clima Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
 weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
 
